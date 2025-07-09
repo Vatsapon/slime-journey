@@ -1,14 +1,13 @@
-===============================
-     Slime Journey Project
-===============================
+# Slime Journey Project | by Vatsapon Asawakittiporn
 
-# Overview
+## 💬 Overview
 A 3D puzzle block-based-coding game where you have to give the Slime a limited amount of commands to reach the goal.
 
-Project Type: Solo Academic Project
-Period: One Month (January 2020)
+**Project Type:** Solo Academic Project
 
-# Project Structure
+**Period:** One Month (January 2020)
+
+## 📁 Project Structure
 - 'Assets/Animations' - All animation-related files (e.g. Slime's movement, Spike, Command Item, etc.).
 - 'Assets/Fonts' - All font that being used in this project.
 - 'Assets/Materials and Textures' - All materials and textures (e.g. Slime, Block, etc.).
@@ -19,10 +18,10 @@ Period: One Month (January 2020)
 - 'Assets/Scripts' - All scripts both core gameplay mechanic and UI.
 - 'Assets/Sprites' - All sprites for UI (e.g. Main Menu, Tutorial, Command Item, etc.)
 
-# Requirements
+## 🛠️ Requirements
 - Unity 2020.2.1f1 or later
 
-# Features
+## 🧪 Features
 - Coroutine-based event sequence.
 - Modular Function and Command systems.
 - Path debugger for easier setup.
